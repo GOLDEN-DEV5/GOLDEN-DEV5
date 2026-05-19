@@ -4,15 +4,14 @@
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════╗
-║     "Code is my language.Playing with codes is my Hobby."   ║
+║        "Write code that solves problems. Build systems that scale."  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=Computer+Scientist+%7C+AI+Engineer;DevOps+Architect+%7C+Automation+Engineer;Full-Stack+Developer+%7C+ML+Specialist;Building+Intelligent+Systems+That+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=Software+Developer+%7C+ICS+Student;Scalable+Systems+Enthusiast;Building+Tomorrow%27s+Tech%2C+Today;Gilgit-Baltistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-basit-4100a5281)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/alibasit07/)
-[![Upwork](https://img.shields.io/badge/Upwork-Available-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c1ed0a98378964cd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiabbas110/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
 
@@ -20,29 +19,29 @@
 
 ## **WHO AM I?**
 
-A **ICS-STUDENT** from KIPS COLLEGE GILGIT with a passion for building intelligent, scalable systems. I live in the terminal, speak in algorithms, and automate everything that doesn't need a human touch. Whether it's crafting neural networks, orchestrating microservices, or deploying production-grade infrastructure—I'm your guy.
+A passionate **Software Developer** and **ICS student at KIPS College Gilgit**, driven by a love for building scalable, efficient, and intelligent software systems. I believe great code is not just functional — it's clean, maintainable, and built to grow.
 
 ```python
-class TheArchitect:
+class SamiAbbas:
     def __init__(self):
-        self.name = "Ali Basit"
-        self.location = "Gilgit, Gilgit-Baltistan "
-        self.education = "BS Computer Science @ Virtual University"
-        self.vibe = "Nerdy. Focused. Always shipping code."
-        self.anthem = "Miguel - Sure Thing "
-        
-    def get_specialties(self):
+        self.name        = "Sami Abbas"
+        self.location    = "Gilgit, Gilgit-Baltistan 🇵🇰"
+        self.education   = "ICS Student @ KIPS College Gilgit"
+        self.role        = "Software Developer"
+        self.vibe        = "Curious. Consistent. Always building."
+
+    def get_interests(self):
         return [
-            "Full-Stack Development (MERN/MEAN/Vue/Next.js)",
-            "AI/ML Engineering (TensorFlow, PyTorch, Scikit-learn)",
-            "Backend Architecture (Django, FastAPI, Flask)",
-            "DevOps & Cloud Infrastructure",
-            "Automation & CI/CD Pipelines",
-            "Systems Programming (C/C++)"
+            "Scalable Software Development",
+            "Full-Stack Web Development",
+            "Backend Systems & APIs",
+            "Data Structures & Algorithms",
+            "Open Source Contributions",
+            "Problem Solving & Competitive Programming",
         ]
-    
+
     def current_status(self):
-        return "Building AI-powered automation tools & seeking collaboration"
+        return "Learning, building, and growing — one project at a time."
 ```
 
 ---
@@ -51,40 +50,26 @@ class TheArchitect:
 
 <div align="center">
 
-### Frontend & Frameworks
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Backend & AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ### Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Systems
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Low-Level Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -93,71 +78,63 @@ class TheArchitect:
 ## **WHAT I DO**
 
 ```yaml
-full_stack_development:
-  frontend: ["React", "Next.js", "Vue.js", "Modern UI/UX"]
-  backend: ["Node.js/Express", "Django", "FastAPI", "Flask"]
-  stacks: ["MERN", "MEAN", "JAMstack"]
+software_development:
+  focus:     "Building scalable, maintainable applications"
+  frontend:  ["HTML/CSS", "JavaScript", "React"]
+  backend:   ["Node.js", "Express", "Python"]
+  databases: ["MongoDB", "MySQL"]
 
-ai_ml_engineering:
-  computer_vision: ["Object Detection", "Image Classification", "CNN Architectures"]
-  nlp: ["Text Analysis", "Sentiment Analysis", "Transformers"]
-  ml_ops: ["Model Deployment", "Pipeline Automation", "Production ML"]
-  frameworks: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"]
+problem_solving:
+  approach:  "Think first. Code second. Refactor always."
+  strengths: ["Data Structures", "Algorithms", "System Design Basics"]
 
-devops_automation:
-  infrastructure: ["Docker", "Kubernetes", "Cloud Services"]
-  ci_cd: ["GitHub Actions", "Jenkins", "Automated Testing"]
-  monitoring: ["Logging", "Performance Optimization", "System Health"]
-
-systems_programming:
-  languages: ["C", "C++"]
-  focus: ["Performance Optimization", "Low-Level Systems", "Memory Management"]
+currently_learning:
+  - "Advanced Backend Architecture"
+  - "REST API Design & Best Practices"
+  - "Cloud Fundamentals"
+  - "Scalable System Design"
 ```
 
 ---
 
 ## **CURRENT MISSION**
 
-- Building **REACT-JS WEB-APPLICATIONS** for production environments
-- Open to **jobs** and **freelance opportunities**
-- Exploring **NODE-JS** and **REACT LIBRARIES**
-- Deepening expertise in **SOFTWARE-DEVELOPMENT**
-- Contributing to **open-source WEB PROJECTS**
+- 📚 Completing **ICS at KIPS College Gilgit** while sharpening dev skills daily
+- 🔨 Building **scalable full-stack projects** to expand my portfolio
+- 🌱 Exploring **backend architecture** and **system design patterns**
+- 🤝 Looking to **collaborate on open-source** projects
+- 🚀 Preparing for a strong **CS degree path** ahead
 
 ---
 
-## **WORK WITH ME**
-
-I specialize in delivering **end-to-end solutions**—from concept to deployment. Whether you need:
-
-- **Full-stack applications** with modern frameworks
-- **DevOps pipelines** for seamless CI/CD
-- **Automation scripts** to optimize workflows
-- **System architecture** designed for performance
-
-**Let's build something extraordinary.**
+## **GITHUB STATS**
 
 <div align="center">
 
-[![Hire on Fiverr](https://img.shields.io/badge/Hire_on_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/alibasit07/)
-[![Available on Upwork](https://img.shields.io/badge/Available_on_Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c1ed0a98378964cd)
+![Sami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GOLDEN-DEV5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GOLDEN-DEV5&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=GOLDEN-DEV5&theme=tokyonight&hide_border=true)
 
 </div>
 
+> ⚠️ Replace `GOLDEN-DEV5` above with your actual GitHub username to activate the stats cards.
+
 ---
 
+## **LET'S CONNECT**
 
+Whether you want to **collaborate on a project**, **discuss tech**, or just **say hi** — my DMs are open.
 
-##  **CODED TO**
+I'm a developer who takes the craft seriously — focused on writing clean code, building things that scale, and never stopping learning.
 
-```
-♪ "If you be the Cash, I'll be the rubber band
-You be the Match,I will be a fuse, Boom!
-Painter Baby, You can be the muse
-I'm the Reporter, Baby you could be  the News
-CAUSE YOU'RE THE CIGARETTE AND I'M THE SMOKER WE RAISE A BET 'CAUSE YOU'RE THE JOKER" ♪
-                    — Miguel, Sure Thing
-```
+<div align="center">
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiabbas110/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiabba110@gmail.com)
+
+</div>
 
 ---
 
@@ -165,15 +142,15 @@ CAUSE YOU'RE THE CIGARETTE AND I'M THE SMOKER WE RAISE A BET 'CAUSE YOU'RE THE J
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."           ║
+║    "First, solve the problem. Then, write the code."         ║
 ║                        — John Johnson                         ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=MuziSan07&color=00f7f7&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=GOLDEN-DEV5&color=00f7f7&style=flat-square&label=VISITORS)
 
-** Powered by caffeine | Driven by curiosity | Defined by code**
+**📍 Gilgit-Baltistan, Pakistan | 🎓 KIPS College Gilgit | 💻 Software Developer**
 
-*"Building intelligent systems, one commit at a time."*
+*"Building scalable systems, one commit at a time."*
 
 </div>

@@ -118,8 +118,6 @@ currently_learning:
 
 </div>
 
-> ⚠️ Replace `GOLDEN-DEV5` above with your actual GitHub username to activate the stats cards.
-
 ---
 
 ## **LET'S CONNECT**

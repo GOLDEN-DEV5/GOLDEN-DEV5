@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=Software+Developer+%7C+ICS+Student;Scalable+Systems+Enthusiast;Building+Tomorrow%27s+Tech%2C+Today;Gilgit-Baltistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&lines=Software+Developer+%7C+;Scalable+Systems+Enthusiast;Building+Tomorrow%27s+Tech%2C+Today;Gilgit-Baltistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiabbas110/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
